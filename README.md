@@ -5,8 +5,6 @@ App Name: [Posts]
 App Description:
 [Posts] is a simple application developed using modern techniques for Android app development. It follows the MVVM (Model-View-ViewModel) architectural pattern and utilizes the Retrofit framework for API communication.
 
-Key Features:
-
 Retrofit Integration: The app utilizes Retrofit to make HTTP requests to the API and retrieve data asynchronously.
 
 MVVM Architecture: [Posts] follows the MVVM architectural pattern, separating the application logic into three components: the Model, View, and ViewModel. This ensures a clear separation of concerns and promotes code reusability.
